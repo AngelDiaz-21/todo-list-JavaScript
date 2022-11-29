@@ -31,6 +31,7 @@ form {
   border-radius: 25px;
   background-color: #fff;
   padding: 25px;
+  text-align: center;
 }
 
 .title {
@@ -74,11 +75,11 @@ form {
   justify-content: flex-start;
   overflow-y: scroll;
   max-height: 60vh;
-  height: 60vh;
+  height: 40vh;
 }
 
 .card {
-  width: 90%;
+  width: 85%;
   padding: 15px;
   box-shadow: 2px 4px 4px 4px rgba(71, 71, 71, 0.16);
   display: flex;
